@@ -5,13 +5,13 @@ testing module creation
 ## Installation
 
 ```sh
-npm install test
+npm install testingmodulecreationtest
 ```
 
 ## Usage
 
 ```js
-import Test from "test";
+import Test from "testingmodulecreationtest";
 
 // ...
 
